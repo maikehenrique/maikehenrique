@@ -14,7 +14,7 @@ Olá, eu sou o Maike! 🇧🇷
 </h3>
 
 ```
-Analista e Desenvolvedor de Sistema pelo nstituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - IFTM,
+Analista e Desenvolvedor de Sistema pelo Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro - IFTM,
 paixão por tecnologia desde criança, e atualmente dedicado a me torna um dev fullstack. 
 ```
 ## Tecnologias que trabalho atualmente 💻
