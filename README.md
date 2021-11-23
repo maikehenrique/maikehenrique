@@ -27,9 +27,11 @@ paixão por tecnologia desde criança, e atualmente dedicado a me torna um dev f
   - Git
  
 ## Projetos fora do Git
- - Aplicativo mobile Cordova com conexão firebase, e banco de dados local
- - Automação de navegador para automatizar tarefas
- - Web Scraping para coleta e extração de dados e salvar diretamente no BD
+ - Site através Framework Laravel
+ - Aplicativos Cordova Integrado ao banco Firebase com Banco de dados Local mobile e sincronização
+ - Projetos em Python para criação de Robô e automatização de navegador
+ - Projetos de Web Scraping com Python para coleta e mineração de dados
+ - Aplicativo Mobile React Native para automação residencial juntamente com Arduino
  
 ## Alguns fatos sobre mim 👨🏻‍💻
 
