@@ -24,6 +24,7 @@ paixão por tecnologia desde criança, e atualmente dedicado a me torna um dev f
   - VueJs
   - PostegreSQL
   - Go
+  - C#
   - Git
  
 ## Projetos fora do Git
@@ -38,6 +39,3 @@ paixão por tecnologia desde criança, e atualmente dedicado a me torna um dev f
 - 🤔 &nbsp; Sou uma pessoa curiosa e adoro conhecer coisas novas.
 - 🎓 &nbsp; Diariamente sempre procuro algo novo para ter conhecimento e noções.
 - 💼 &nbsp; Trabalho como **Analista e desenvolvedor de Sistemas**
-
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
